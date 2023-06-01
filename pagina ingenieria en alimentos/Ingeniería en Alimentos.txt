@@ -1,0 +1,738 @@
+﻿<doctype html>
+<html>
+<head>
+<body bgcolor="0, 255, 2555">
+<title>Ingeniería en Alimentos</title>
+<meta charset="utf-8"/>
+<meta name"author" content="un poquito mas..."/>
+<BODY>
+<H2>Campo Laboral</H2>
+<p>Al egresar de la carrera de Ingeniería en Alimentos podrás desarrollarte en distintas áreas de una organización, tales como:</p>
+<p>Conservación de alimentos frescos y producción de alimentos procesados
+  Innovación y desarrollo de bebidas y productos alimentarios  </p>
+<p>Aseguramiento de calidad y supervisión en líneas de producción</p>
+<p> Diseño de sistemas de inocuidad alimentaria  </p>
+<p>Administración logística y ventas en empresas procesadoras de alimentos, bebidas y aditivos; diseñadoras y constructoras de equipos y sistemas de embalaje y envasado </p>
+<p>Consultoría en ingeniería de alimentos
+  Centros de investigación</p>
+<A HREF=https://tec.mx/es/bioingenieria-y-procesos-quimicos/ingeniero-en-alimentos#:~:text=Campo%20Laboral,-Al%20egresar%20de&text=Aseguramiento%20de%20calidad%20y%20supervisi%C3%B3n,sistemas%20de%20embalaje%20y%20envasado"">VER MAS INFORMACON RELACIONADA</A>
+</p>
+<div id="s-m-id-1">
+  <h2>Competencias</h2>
+</div>
+<div>
+  <div>
+    <p>Ingeniería en Alimentos</p>
+  </div>
+</div>
+<p>El <strong>programa de Ingeniería en Alimentos</strong> tiene como objetivo formar profesionistas competentes internacionalmente, que apliquen e integren la ciencia y la tecnología para <strong>resolver problemas de la industria de alimentos, que diseñen alimentos y bebidas</strong> -con énfasis en <strong>alimentos saludables e individualizados</strong>-, que desarrollen, optimicen y administren procesos sustentables y sistemas de inocuidad para la conservación y transformación de alimentos, y que respeten y apliquen las normas y lineamientos relacionadas con la industria de alimentos.  Los egresados se caracterizan por su espíritu emprendedor e innovador, por el liderazgo en su entorno y por su comportamiento ético. </p>
+<p> </p>
+<p><strong>Competencias:</strong></p>
+<p><strong>Desarrolla alimentos</strong> que coadyuven al tratamiento o prevención de enfermedades crónico-degenerativas y obesidad respetando la cultura de los consumidores y la normatividad vigente.</p>
+<p>Evalúa la eficiencia de procesos de conservación y <strong>transformación de alimentos con base en los principios de sustentabilidad.</strong></p>
+<p><strong>Evalúa la inocuidad</strong> de procesos de conservación y transformación de alimentos, <strong>de acuerdo con los lineamientos nacionales e internacionales</strong> vigentes.</p>
+<p><strong>Diseña alimentos</strong> para un individuo en función de las restricciones o necesidades alimenticias relacionadas con la genética.</p>
+<p> </p>
+<p><strong><em>Perfil de ingreso</em></strong></p>
+<p> </p>
+<p>El Tecnológico de Monterrey busca integrar en todas sus carreras profesionales a una nueva generación de estudiantes que hayan concluido sus estudios de bachillerato y que se distingan por ser: personas talentosas, entusiastas, comprometidas con el desarrollo de su entorno y con el bienestar de la sociedad; personas que tengan el potencial para concluir exitosamente su programa de licenciatura y convertirse en líderes con espíritu emprendedor, sentido humano y competitivos internacionalmente.</p>
+<blockquote>
+  <H2>Las Tres Etapas del Modelo
+  Elige tu camino;<img src="4_radar_ial.png" width="200" height="200" alt="1"></H2>
+</blockquote>
+<div>
+  <h4>Exploración</h4>
+  <ol>
+    <li>Iniciarás tu expediente de competencias, mismo que irás alimentando a lo largo de tu carrera.</li>
+    <li>Te formarás en los fundamentos específicos de tu área de ingreso.</li>
+    <li>Participarás en un reto fundamental y en retos de exploración de tu área en los que interactuarás con compañeros de distintas carreras.</li>
+    <li>Cursarás materias de educación general, de un acervo a elegir.</li>
+    <li>Participarás en un reto integrador de todas las competencias previstas para desarrollarse en esta fase.</li>
+  </ol>
+</div>
+<div>
+  <h4> Enfoque</h4>
+  <ol>
+    <li>Te formarás en las competencias <em>core</em>, de tu carrera es decir, aquellas que la distinguen.</li>
+    <li>Participarás en retos más enfocados, para reforzar lo aprendido y ampliar fundamentos.</li>
+    <li>Contarás con los elementos para decidir entre profundizar o diversificar y armar tu plan de especialización en consecuencia.</li>
+    <li>Las semanas Tec, los retos y vivencias universitarias enriquecerán tu expediente.</li>
+  </ol>
+</div>
+<div>
+  <h4> Especialización</h4>
+  <ol>
+    <li>Has decidido entre diversificarte o profundizar aún más en tu carrera y lo harás al elegir una concentración o una estancia, por mencionar algunas de tus opciones. El semestre Tec es el espacio de tiempo flexible para iniciar.</li>
+    <li>Desarrollarás competencias propias de tu especialización, cada vez más conectadas a tus pasiones, intereses y planes.</li>
+    <li>Al aprobar una concentración desarrollarás sus competencias y al graduarte serás candidata o candidato a obtener el Diploma de dicha concentración al cumplir con los requisitos establecidos.</li>
+  </ol>
+</div>
+    <DIV ALIGN="JUSTIFY">
+      <p><img src="ia_desc_01.jpg" width="350" height="316" alt="2"></p>
+    </DIV>
+<H2>¿Cómo podrás especializarte?</H2>
+<h4>   Concentraciones</h4>
+<p>Especialízate con las diferentes concentraciones disponibles en el campus de tu elección, de acuerdo al perfil que quieres desarrollar.</p>
+<h4>  Estancias</h4>
+<p>En las estancias participas en el desarrollo de proyectos específicos con empresas, organizaciones o grupos de investigación, en un contexto de inmersión total relacionadas con un área de especialidad. Se pueden realizar de manera local, nacional o internacional.</p>
+<h4>  Experiencias internacionales</h4>
+<p>Vive una experiencia fuera de México, que te permita ampliar tus horizontes y profundizar en los temas de tu interés.</p>
+<h4>  Materias o bloques</h4>
+<p>Elige unidades de formación que mejor se adapten a lo que buscas, las cuales te permitirán especializarte en lo que a ti te interesa.</p>
+<DIV ALIGN="JUSTIFY">
+  <div>
+    <div>
+      <div>
+        <div>
+          <h2>Concentraciones</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <div>
+        <div>
+          <h3>Disciplinar</h3>
+          <h4>Profundiza en tu área de estudio</h4>
+          <ul>
+            <li>Bioemprendimiento y economía circular</li>
+            <li>Desarrollo de nuevos productos químicos y biotecnológios</li>
+            <li>Evolución operativa para la industria</li>
+            <li>Innovación abierta y transferencia tecnológica</li>
+            <li>Innovación en el desarrollo de alimentos</li>
+            <li>Sistemas y tecnologías 4.0</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Transversal</h3>
+          <h4>Profundiza en otras áreas de estudio</h4>
+          <ul>
+            <li>Analítica de datos y herramientas de inteligencia artificial</li>
+            <li>Calidad de vida y bienestar</li>
+            <li>Cultura mexicana</li>
+            <li>Diseño, innovación y emprendimiento tecnológico</li>
+            <li>Emprendimiento en acción</li>
+            <li>Familia empresaria, sostenibilidad y trascendencia</li>
+            <li>Gobierno y transformación pública</li>
+            <li>Innovación social</li>
+            <li>Negocios conscientes</li>
+            <li>Visión financiera para la toma de decisiones</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</DIV>
+<DIV ALIGN="JUSTIFY">
+  <table width="300">
+    <tbody>
+      <tr>
+        <td colspan="6">BLOQUE 1</td>
+      </tr>
+      <tr>
+        <td><h6>EXPERIENCIAS EDUCATIVAS</h6></td>
+        <td><h6>TEORÍA</h6></td>
+        <td><h6>PRÁCTICA</h6></td>
+        <td><h6>OTROS</h6></td>
+        <td><h6>CRÉDITOS</h6></td>
+        <td><h6>ANTECEDENTES</h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/1.-P.E.-Lectura_y_escritura-2.pdf">1.-LECTURA Y ESCRITURA DE TEXTOS ACADÉMICOS</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>4</h6></td>
+        <td><h6>4</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/2.-P.E.-Lengua-I-Ingles-2.pdf">2.-LENGUA I</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td><h6>4</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/3.-P.E.-Literacidad_digital-2.pdf">3.-LITERACIDAD DIGITAL</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td width="80"><h6>4</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/4.-P.E.-Pensamiento_critico-2.pdf">4.-PENSAMIENTO CRITICO PARA LA SOLUCION DE PROBLEMAS</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>4</h6></td>
+        <td width="80"><h6>4</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/5.-ICQ-Fisica-VF-2.pdf">5.-FÍSICA</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td width="80"><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/6.-ICQ-Matematicas-VF-2.pdf">6.-MATEMÁTICAS</a></h6></td>
+        <td><h6>1</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td width="80"><h6>4</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/7.-ICQ-Quimica-VF-2.pdf">7.-QUÍMICA</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td width="80"><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/8.-IALI-Biologia-celular-VF.pdf">8.-BIOLOGÍA CELULAR</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6>CRÉDITOS MÍNIMOS</h6></td>
+        <td><h6>10</h6></td>
+        <td><h6>6</h6></td>
+        <td><h6>20</h6></td>
+        <td><h6>40</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="6">INICIACIÓN A LA DISCIPLINA</td>
+      </tr>
+      <tr>
+        <td colspan="6" width="305">BLOQUE 2</td>
+      </tr>
+      <tr>
+        <td width="305"><h6>EXPERIENCIAS EDUCATIVAS</h6></td>
+        <td width="80"><h6>TEORÍA</h6></td>
+        <td width="80"><h6>PRÁCTICA</h6></td>
+        <td width="80"><h6>OTROS</h6></td>
+        <td width="80"><h6>CRÉDITOS</h6></td>
+        <td width="95"><h6>ANTECEDENTES</h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/9.-P.E.-Lengua-II-Ingles-1.pdf">9.-LENGUA II</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td><h6>4</h6></td>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/2.-P.E.-Lengua-I-Ingles-2.pdf">2.-LENGUA I</a></h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/10.-TC-Algebra-Lineal-VF-1.pdf">10.-ÁLGEBRA</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/11.-TC-Calculo-de-Una-Variable-VF-1.pdf">11.-CÁLCULO DE UNA VARIABLE</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/12.-IICQ-Programacion-para-ingenieria-VF.pdf">12.-PROGRAMACIÓN PARA INGENIERÍA</a></h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/14.-IALI-Quimica-Analitica-VF.pdf">13.-QUÍMICA ANALÍTICA</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>4</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>10</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/13.-IALI-Quimica-organica-VF.pdf">14.-QUÍMICA ORGÁNICA</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>9</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6>CRÉDITOS MÍNIMOS</h6></td>
+        <td><h6>14</h6></td>
+        <td><h6>13</h6></td>
+        <td><h6>6</h6></td>
+        <td><h6>45</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="6"></td>
+      </tr>
+      <tr>
+        <td colspan="6"><p>BLOQUE 3</p></td>
+      </tr>
+      <tr>
+        <td><h6>EXPERIENCIAS EDUCATIVAS</h6></td>
+        <td width="80"><h6>TEORÍA</h6></td>
+        <td width="80"><h6>PRÁCTICA</h6></td>
+        <td width="80"><h6>OTROS</h6></td>
+        <td width="80"><h6>CRÉDITOS</h6></td>
+        <td width="95"><h6>ANTECEDENTES</h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/08/TC-Metodos-Numericos-VF.pdf">15.-MÉTODOS NÚMERICOS</a></h6></td>
+        <td width="80"><h6>2</h6></td>
+        <td width="80"><h6>2</h6></td>
+        <td width="80"><h6>0</h6></td>
+        <td width="80"><h6>6</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/08/IICQ-Calculo-multivariable-VF.pdf">16.-CÁLCULO MULTIVARIABLE</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>8</h6></td>
+        <td><h6></h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/08/IICQ-Dibujo-para-ingenieria-VF.pdf">17.-DIBUJO PARA INGENIERÍA</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>3</h6></td>
+        <td><h6></h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/08/IICQ-Metodologia-de-la-investigacion-VF.pdf">18.-METODOLOGÍA DE LA INVESTIGACIÓN</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>3</h6></td>
+        <td><h6></h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/08/IALI-Bioquimica-VF.pdf">19.-BIOQUÍMICA</a></h6></td>
+        <td width="80"><h6>3</h6></td>
+        <td width="80"><h6>2</h6></td>
+        <td width="80"><h6>0</h6></td>
+        <td width="80"><h6>8</h6></td>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/14.-IALI-Quimica-organica-VF.pdf">14.-QUÍMICA ORGÁNICA</a></h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/08/IALI-Analisis-Instrumental-VF.pdf">20.-ANÁLISIS INSTRUMENTAL</a></h6></td>
+        <td width="80"><h6>3</h6></td>
+        <td width="80"><h6>3</h6></td>
+        <td width="80"><h6>0</h6></td>
+        <td width="80"><h6>9</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/08/IALI-Quimica-de-Alimentos-VF.pdf">21.-QUÍMICA DE ALIMENTOS</a></h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td><h6><a href="https://www.uv.mx/cq/files/2021/05/14.-IALI-Quimica-organica-VF.pdf">14.-QUÍMICA ORGÁNICA</a></h6></td>
+      </tr>
+      <tr>
+        <td><h6>CRÉDITOS MÍNIMOS</h6></td>
+        <td><h6>15</h6></td>
+        <td><h6>16</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>46</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="6"></td>
+      </tr>
+      <tr>
+        <td colspan="6">BLOQUE 4</td>
+      </tr>
+      <tr>
+        <td><h6>EXPERIENCIAS EDUCATIVAS</h6></td>
+        <td><h6>TEORÍA</h6></td>
+        <td><h6>PRÁCTICA</h6></td>
+        <td><h6>OTROS</h6></td>
+        <td><h6>CRÉDITOS</h6></td>
+        <td><h6>ANTECEDENTES</h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/02/IALI-Analisis-de-Alimentos-VF.pdf">22.- ANÁLISIS DE ALIMENTOS</a></h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>4</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/02/IALI-Bioquimica-de-Alimentos-VF.pdf">23.-BIOQUÍMICA DE ALIMENTOS</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/02/IALI-Microbiologia-de-Alimentos-VF.pdf">24.-MICROBIOLOGIA DE ALIMENTOS</a></h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>4</h6></td>
+        <td><h6>0</h6></td>
+        <td width="80"><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/02/IICQ-Seguridad-e-Higiene-VF.pdf">25.-SEGURIDAD E HIGIENE</a></h6></td>
+        <td><h6>1</h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>0</h6></td>
+        <td width="80"><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/02/IICQ-Termodinamica-VF.pdf">26.-TERMODINÁMICA</a></h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td width="80"><h6>6</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/02/TC-Ecuaciones-Diferenciales-VF.pdf">27.-ECUACIONES DIFERENCIALES</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td width="80"><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6>CRÉDITOS MÍNIMOS</h6></td>
+        <td>13</td>
+        <td>15</td>
+        <td>0</td>
+        <td>44</td>
+      </tr>
+    </tbody>
+  </table>
+  <table width="300">
+    <tbody>
+      <tr>
+        <td colspan="6">BLOQUE 5</td>
+      </tr>
+      <tr>
+        <td><h6>EXPERIENCIAS EDUCATIVAS</h6></td>
+        <td><h6>TEORÍA</h6></td>
+        <td><h6>PRÁCTICA</h6></td>
+        <td><h6>OTROS</h6></td>
+        <td><h6>CRÉDITOS</h6></td>
+        <td><h6>ANTECEDENTES</h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Balance-de-materia-y-energia-VF.pdf">28-. BALANCE DE MATERIA Y ENERGÍA</a></h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>4</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Fenomenos-del-transporte-VF.pdf">29.- FENÓMENOS DE TRANSPORTE EN ALIMENTOS</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Fisicoquimica-de-alimentos-VF.pdf">30.- FISICOQUÍMICA DE ALIMENTOS</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>4</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>10</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Nutricion-VF.pdf">31.- NUTRICIÓN</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>2</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Seguridad-e-Inocuidad-Alimentaria-VF.pdf">32.- SEGURIDAD E INOCUIDAD ALIMENTARIA</a></h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Toxicologia-de-Alimentos-VF.pdf">33.- TOXICOLOGÍA DE ALIMENTOS</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IICQ-Estadistica-para-ingenieria-VF.pdf">34.- ESTADÍSTICA PARA INGENIERÍA</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6>CRÉDITOS MÍNIMOS</h6></td>
+        <td>16</td>
+        <td>16</td>
+        <td>0</td>
+        <td>48</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <table>
+    <tbody>
+      <tr>
+        <td colspan="6">BLOQUE 6</td>
+      </tr>
+      <tr>
+        <td><h6>EXPERIENCIAS EDUCATIVAS</h6></td>
+        <td><h6>TEORÍA</h6></td>
+        <td><h6>PRÁCTICA</h6></td>
+        <td><h6>OTROS</h6></td>
+        <td><h6>CRÉDITOS</h6></td>
+        <td><h6>ANTECEDENTES</h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Diseno-de-experimentos-VF.pdf">35.- DISEÑO DE EXPERIMENTOS</a></h6></td>
+        <td><h6>4</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Envases-y-embalaje-VF.pdf">36.- ENVASES Y EMBALAJES</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>2</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Ingenieria-de-fermentacion-y-destilacion-VF.pdf">37.- INGENIERÍA DE FERMENTACIÓN Y DESTILACIÓN</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>4</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>4</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Operaciones-unitarias-mecanicas-VF.pdf">38.- OPERACIONES UNITARIAS MECÁNICAS</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>7</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Sistemas-de-aseguramiento-de-la-calidad-VF.pdf">39.- SISTEMAS DE ASEGURAMIENTO DE LA CALIDAD</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Bioetica-VF.pdf">40.- BIOÉTICA</a></h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>4</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Flujo-de-fluidos-y-reologia-VF.pdf">41.- FLUJO DE FLUIDOS Y REOLOGÍA</a></h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2022/04/IALI-Transferencia-de-calor-y-masa-VF.pdf">42.- TRANFERENCIA DE CALOR Y MASA</a></h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>7</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6>CRÉDITOS MÍNIMOS</h6></td>
+        <td>16</td>
+        <td>13</td>
+        <td>0</td>
+        <td>44</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <p> </p>
+<table>
+    <tbody>
+      <tr>
+        <td colspan="6">BLOQUE 7</td>
+      </tr>
+      <tr>
+        <td><h6>EXPERIENCIAS EDUCATIVAS</h6></td>
+        <td><h6>TEORÍA</h6></td>
+        <td><h6>PRÁCTICA</h6></td>
+        <td><h6>OTROS</h6></td>
+        <td><h6>CRÉDITOS</h6></td>
+        <td><h6>ANTECEDENTES</h6></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2023/02/IALI-Administracion-VF.pdf">44.- ADMINISTRACIÓN</a></h6></td>
+        <td><h6>4</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>8</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2023/02/IALI-Biotecnologia-VF.pdf">45.- BIOTECNOLOGIA</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>2</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2023/02/IALI-Desarrollo-de-nuevos-productos-VF.pdf">46.- DESARROLLO DE NUEVOS PRODUCTOS</a></h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>4</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>4</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2023/02/IALI-Desarrollo-emprendedor-VF.pdf">47.- DESARROLLO EMPRENDEDOR</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>7</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2023/02/IALI-Operaciones-unitarias-VF.pdf">48.- OPERACIONES UNITARIAS</a></h6></td>
+        <td><h6>3</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>6</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6><a href="https://www.uv.mx/cq/files/2023/02/IALI-Procesamiento-y-tecnologi%CC%81a-de-productos-de-origen-animal-VF.pdf">49.- PROCESAMIENTO Y TECNOLOGIA DE PRODUCTOS DE ORIGEN ANIMAL</a></h6></td>
+        <td><h6>2</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>0</h6></td>
+        <td><h6>4</h6></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><h6>CRÉDITOS MÍNIMOS</h6></td>
+        <td>16</td>
+        <td>13</td>
+        <td>0</td>
+        <td>44</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <div id="html_prog_tabs">
+    <div>
+      <div>
+        <div id="tabs_caratula">
+<div>
+            <div id="semester-1">
+              <div>
+                <div>
+                  <div> </div>
+                </div>
+              </div>
+          </div>
+            <div id="semester-2"></div>
+            <div id="semester-3"></div>
+            <div id="semester-4"></div>
+            <div id="semester-5"></div>
+            <div id="semester-6"></div>
+            <div id="semester-7"></div>
+            <div id="semester-8"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <div>
+        <div>
+          <h3>Carreras Relacionadas</h3>
+          <ul>
+            <li><a href="https://tec.mx/es/bioingenieria-y-procesos-quimicos/ingeniero-en-biosistemas-agroalimentarios">IAG - Ingeniería en Biosistemas Agroalimentarios</a></li>
+            <li><a href="https://tec.mx/es/bioingenieria-y-procesos-quimicos/ingeniero-en-biotecnologia">IBT - Ingeniería en Biotecnología</a></li>
+            <li><a href="https://tec.mx/es/bioingenieria-y-procesos-quimicos/ingeniero-en-desarrollo-sustentable">IDS - Ingeniería en Desarrollo Sustentable</a></li>
+            <li><a href="https://tec.mx/es/bioingenieria-y-procesos-quimicos/ingeniero-quimico">IQ - Ingeniería Química</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</DIV>
+</footer>
+</div>
+<div class="region region-bottom">
+<div id="block-bloque-legales-bloque-legales" class="block block-bloque-legales first last odd">
+<p>.</p>
+<div id="block-emulsify-direccion">
+  <div>
+    <p>AV. EUGENIO GARZA SADA 2501 COL. TECNOLÓGICO C.P. 64700 | MONTERREY, NUEVO LEÓN, MÉXICO | TEL. +52 (81) 8358-2000 D.R.© INSTITUTO TECNOLÓGICO Y DE ESTUDIOS SUPERIORES DE MONTERREY, MÉXICO. 2023</p>
+    <p><em>*DEC-520912 PROGRAMAS EN MODALIDAD ESCOLARIZADA.</em></p>
+  </div>
+</div>
+<h2 id="block-emulsify-avisolegal-menu">Aviso Legal</h2>
+<ul>
+  <li><a x-ms-format-detection="none" href="https://tec.mx/es/aviso-legal">AVISO LEGAL</a> </li>
+  
+  <li><a x-ms-format-detection="none" href="https://tec.mx/es/politicas-de-privacidad-del-tecnologico-de-monterrey">POLÍTICAS DE PRIVACIDAD</a> </li>
+  
+  <li><a x-ms-format-detection="none" href="https://tec.mx/es/avisos-de-privacidad">AVISO DE PRIVACIDAD</a> </li>
+  
+  <li><a x-ms-format-detection="none" href="https://tec.mx/es/sobre-el-sitio">SOBRE EL SITIO</a></li>
+</ul>
+<phttps://tec.mx/es/bioingenieria-y-procesos-quimicos/ingeniero-en-alimentos>&nbsp; </div>
+</div>
+<script src="https://www.unam.mx/sites/default/files/js/js_rR1UpFcxYbve0531qs7TKMKfw50KNIliTDdxenDPsUI.js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon='{"rayId":"7c8cceabc8f8b6e2","token":"85c9b686dc624b38bc2082567b58d4fe","version":"2023.4.0","si":100}' crossorigin="anonymous"></script>
+
+</BODY>
+</HTML>
